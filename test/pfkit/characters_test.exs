@@ -1,4 +1,4 @@
-defmodule Pfkit.CharacterSheetsTest do
+defmodule Pfkit.CharactersTest do
   use ExUnit.Case, async: true
 
   test "can roll for initiative" do
